@@ -1,0 +1,20 @@
+# Credentials - ne jamais commiter
+db.php
+
+# Fichiers de setup à usage unique
+setup.php
+pages/admin/php/make_admin.php
+
+# Uploads utilisateurs (trop lourds, hébergés sur Supabase Storage)
+multimedia/img/uploads/
+
+# Fichiers de développement local
+*.code-workspace
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
