@@ -240,7 +240,7 @@ function formatTime($dateString) {
             <div class="news-card-img">🏆</div>
             <div class="news-card-body">
                 <div class="news-tag">Équipe première</div>
-                <div class="news-card-title">Victoire convaincante lors de la dernière journée</div>
+                <div class="news-card-title">Victoire caca lors de la dernière journée</div>
                 <div class="news-card-desc">L'équipe réalise un match solide et s'impose face à son adversaire grâce à une performance collective de haut niveau.</div>
                 <div class="news-meta">
                     <span class="news-date">7 mars 2026</span>
